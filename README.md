@@ -15,3 +15,6 @@ Aplicativo Android desenvolvido em Java para a ATPS de Desenvolvimento Mobile - 
 
 ## Aluno
 Lucas Menezes dos Santos - Matrícula: 202510349
+Matrícula: 202510349
+Disciplina: Desenvolvimento Mobile (M2 2026)
+UniProjeção
